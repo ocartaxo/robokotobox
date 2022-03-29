@@ -1,0 +1,11 @@
+robocode.battle.sentryBorderSize=100
+robocode.battle.numRounds=10
+
+robocode.battleField.width=800
+robocode.battleField.height=600
+
+robocode.battle.rules.inactivityTime=450
+robocode.battle.selectedRobots=$selectedRobots$
+robocode.battle.hideEnemyNames=false
+
+robocode.battle.initialPositions=(0,0,?),(800,600,?)
